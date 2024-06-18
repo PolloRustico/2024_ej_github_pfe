@@ -1,0 +1,17 @@
+{
+  "name": "10_github",
+  "version": "0.0.1",
+  "description": "clase de git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "la fixa maxima",
+  "license": "MIT"
+}
